@@ -7,7 +7,7 @@ function findDigits(n){
         }
     }
 
-    console.log(count)
+    return count;
 
 }
 
